@@ -4,10 +4,7 @@
     box-sizing: border-box;
 }
 
-/* .ul-style li{
-    color: #848199;
 
-} */
 .ul-style i{
     margin: 5px 0;
     color: #786ccf ;
@@ -16,6 +13,9 @@
    background: #3F87F5;
    color: #FFF !important;
 
+}
+.carousel-img{
+    min-height: 50vh;
 }
 
 
@@ -53,10 +53,3 @@
     color:#3F87F5 !important ;
 }
 
-/* .navigation{
-    height: 100px;
-} */
-/* .banner{
-    min-height: 100vh;
-    
-} */
